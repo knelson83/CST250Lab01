@@ -1,3 +1,4 @@
 # CST250Lab01
-Here is my first commit!
+
+Assignment 1: 1-2
 
