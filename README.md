@@ -14,17 +14,16 @@ public class array2{
         
         
        int [] inputArray = {13,16,3,1};
-      int [] n = inputArray;
        
     }
     
     public static int[] removeElement(int[] inputArray, int n){
         
-       inputArray[4] = inputArray[inputArray.length - 1];
+       inputArray[1] = inputArray[inputArray.length - 1];
+       inc[] n = new inc[inputArray.length - 1];
        
-         for (int element : inputArray){
-            System.out.println(element);
-        
+         for (int i = 0; i < n.length; i++){
+            n[i] = inputArray;
            
        }
        return inputArray;
